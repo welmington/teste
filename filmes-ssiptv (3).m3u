@@ -1,4 +1,8 @@
 #EXTM3U size="Medium"
+#EXTBG: #11609e
+http://tinyurl.com/ym3l7am6
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
 http://painelupplus.koffice.site/ssiptv/get/506892105/726976433/list_movies/-1/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes | Lançamentos 2023
 #EXTBG: #11609e
