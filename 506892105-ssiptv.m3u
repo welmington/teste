@@ -8,3 +8,6 @@ https://raw.githubusercontent.com/welmington/teste/main/filmes-ssiptv%20(3).m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/wg55QnL/1x1.png",SÉRIES
 #EXTBG:https://i.ibb.co/k6QMycv/S-RIES-1.png
 http://painelupplus.koffice.site/ssiptv/get/TestePessoal/21990657865/list_series/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/wg55QnL/1x1.png", NOVELAS
+#EXTBG:https://i.ibb.co/1ZtVT9C/24H-1.png
+https://raw.githubusercontent.com/welmington/teste/main/novelas%20seven%20up.m3u
