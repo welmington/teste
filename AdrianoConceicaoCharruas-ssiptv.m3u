@@ -4,7 +4,7 @@
 http://painelupplus.koffice.site/ssiptv/get/AdrianoConceicaoCharruas/21992023056/list_lives/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
 #EXTBG:
-https://raw.githubusercontent.com/welmington/teste/main/AdrianoConceicaoCharruas_filmes.m3u
+https://raw.githubusercontent.com/welmington/teste/main/AdrianoConceicaoCharruas_filmes_plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
 #EXTBG:
 http://painelupplus.koffice.site/ssiptv/get/AdrianoConceicaoCharruas/21992023056/serie_categories/
