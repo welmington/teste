@@ -4,7 +4,7 @@
 http://painelupplus.koffice.site/ssiptv/get/Paula8626/86paula26/list_lives/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
 #EXTBG:
-https://github.com/welmington/teste/blob/main/Paula8626_plus.m3u
+https://raw.githubusercontent.com/welmington/teste/main/Paula8626_plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
 #EXTBG:
 http://painelupplus.koffice.site/ssiptv/get/Paula8626/86paula26/serie_categories/
