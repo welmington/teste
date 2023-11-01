@@ -1,10 +1,10 @@
 #EXTM3U size="Big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
-#EXTBG:
-http://painelupplus.koffice.site/ssiptv/get/Paula8626/86paula26/list_lives/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
-#EXTBG:
-https://raw.githubusercontent.com/welmington/teste/main/Paula8626_plus.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
-#EXTBG:
-http://painelupplus.koffice.site/ssiptv/get/Paula8626/86paula26/serie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",CANAIS
+#EXTBG:https://i.imgur.com/ovhNG4N.jpg
+http://ssiptv.primeservers.store/ssiptv/get/Paula8626/86paula26/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",FILMES
+#EXTBG:https://i.imgur.com/sxFhKhn.jpg
+http://ssiptv.primeservers.store/ssiptv/get/Paula8626/86paula26/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",SÉRIES
+#EXTBG:https://i.imgur.com/li2BE2k.jpg
+http://ssiptv.primeservers.store/ssiptv/get/get/Paula8626/86paula26/serie_categories/
