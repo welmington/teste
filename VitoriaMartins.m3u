@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:
+http://painelupplus.koffice.site/ssiptv/get/VitoriaMartins/21980823067/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTBG:
+http://painelupplus.koffice.site/ssiptv/get/VitoriaMartins/21980823067/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
+#EXTBG:
+http://painelupplus.koffice.site/ssiptv/get/VitoriaMartins/21980823067erie_categories/
