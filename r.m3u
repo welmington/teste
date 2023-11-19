@@ -1,0 +1,7 @@
+#EXTM3U
+
+# Smallville
+#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 1, Sinopse: Em Smallville, testemunhamos a jornada de Clark Kent, um jovem com habilidades extraordinárias, enquanto ele descobre seu destino como o icônico Superman.
+http://caminho/do/arquivo/smallville_s01e01.mp4
+#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 2, Sinopse: Neste episódio, Clark enfrenta desafios sobre sua identidade sobrenatural e começa a entender o papel que ele desempenhará no mundo.
+http://caminho/do/arquivo/smallville_s01e02.mp4
