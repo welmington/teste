@@ -1,37 +1,80 @@
 #EXTM3U
 
-# Série 1 - Smallville
-#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 1, Sinopse: Em Smallville, testemunhamos a jornada de Clark Kent, um jovem com habilidades extraordinárias, enquanto ele descobre seu destino como o icônico Superman.
-http://caminho/do/arquivo/smallville_s01e01.mp4
-#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 2, Sinopse: Neste episódio, Clark enfrenta desafios sobre sua identidade sobrenatural e começa a entender o papel que ele desempenhará no mundo.
-http://caminho/do/arquivo/smallville_s01e02.mp4
-#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 3, Sinopse: Clark descobre novas facetas de seus poderes enquanto lida com amizades e inimigos em Smallville.
-http://caminho/do/arquivo/smallville_s01e03.mp4
-#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 4, Sinopse: Um novo vilão surge, desafiando Clark a aprimorar suas habilidades e proteger sua comunidade.
-http://caminho/do/arquivo/smallville_s01e04.mp4
+# Série 1 - Ataque dos Titãs - Temporada 1
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 1, Sinopse: Em um mundo onde gigantes devoram humanos, um grupo de jovens se une para proteger a humanidade da ameaça titã.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/01.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 2, Sinopse: Enquanto a batalha contra os titãs se intensifica, segredos sombrios sobre a origem dessas criaturas são revelados.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/02.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 3, Sinopse: Alianças são testadas e sacrifícios são feitos enquanto a humanidade enfrenta uma ameaça quase imparável.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/03.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 4, Sinopse: À medida que a batalha avança, os personagens descobrem a verdade por trás do mistério dos titãs.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/04.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 5, Sinopse: O destino da humanidade fica cada vez mais incerto, enquanto os titãs revelam sua verdadeira natureza.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/05.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 6, Sinopse: Traições e reviravoltas abalam a confiança do grupo, enquanto a luta pela sobrevivência continua.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/06.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 7, Sinopse: Novos titãs surgem, levando os personagens a enfrentar desafios ainda mais perigosos.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/07.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 8, Sinopse: Revelações chocantes mudam o curso da batalha e afetam profundamente os protagonistas.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/08.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 9, Sinopse: Emoções intensas e confrontos épicos marcam este episódio crucial da primeira temporada.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/09.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 10, Sinopse: Revelações chocantes mudam o curso da batalha e afetam profundamente os protagonistas.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/10.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 11, Sinopse: Emoções intensas e confrontos épicos marcam este episódio crucial da primeira temporada.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/11.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 12, Sinopse: O passado dos personagens é explorado, trazendo à tona segredos que podem mudar tudo.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/12.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 13, Sinopse: Mistérios se desenrolam e revelações impactantes abalam os personagens neste episódio emocionante.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/13.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 14, Sinopse: Desafios inesperados e traições abalam as fundações da luta pela sobrevivência.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/14.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 15, Sinopse: Momentos de desespero testam a coragem dos personagens enquanto eles enfrentam adversidades inimagináveis.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/15.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 16, Sinopse: Revelações chocantes e escolhas difíceis moldam o destino dos personagens neste episódio intenso.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/16.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 17, Sinopse: A tensão atinge um ponto crítico, e segredos obscuros são revelados em meio à batalha.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/17.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 18, Sinopse: Consequências devastadoras e sacrifícios marcantes definem este episódio impactante.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/18.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 19, Sinopse: O confronto final se aproxima, enquanto os personagens enfrentam a verdadeira extensão da ameaça titã.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/19.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 20, Sinopse: Alianças são formadas e quebradas, desencadeando uma série de eventos inesperados.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/20.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 21, Sinopse: Em meio ao caos, os personagens enfrentam escolhas impossíveis que determinarão o destino da humanidade.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/21.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 22, Sinopse: (Adicione aqui a sinopse do episódio 22)
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/22.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 23, Sinopse: (Adicione aqui a sinopse do episódio 23)
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/23.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 24, Sinopse: (Adicione aqui a sinopse do episódio 24)
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/24.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 1 - Episódio 25, Sinopse: (Adicione aqui a sinopse do episódio 25)
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/%201%C2%AA%20TEMPORADA%20/25.mp4
+# Série 1 - Ataque dos Titãs - Temporada 2
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 1, Sinopse: No episódio 1 da Temporada 2, os personagens se deparam com uma nova ameaça titã que desencadeia uma série de eventos surpreendentes.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/01.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 2, Sinopse: O mistério por trás dos titãs se aprofunda, enquanto segredos há muito enterrados vêm à tona.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/02.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 3, Sinopse: As alianças são testadas quando os personagens enfrentam escolhas difíceis para garantir a sobrevivência da humanidade.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/03.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 4, Sinopse: Conflitos internos e externos atingem o auge, deixando os personagens em um momento decisivo.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/04.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 5, Sinopse: Um traidor é revelado, desencadeando uma reviravolta emocionante na luta contra os titãs.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/05.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 6, Sinopse: Relações são testadas enquanto os personagens enfrentam a verdade sobre o passado e o presente.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/06.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 7, Sinopse: Uma nova ameaça surge, desafiando as habilidades e a coragem dos personagens em uma batalha épica.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/07.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 8, Sinopse: A verdadeira natureza dos titãs é revelada, levando a uma corrida contra o tempo para salvar a humanidade.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/08.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 9, Sinopse: Alianças são forjadas e quebradas, enquanto os personagens enfrentam um destino incerto.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/09.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 10, Sinopse: Uma descoberta chocante muda o curso da batalha e coloca os personagens à prova.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/10.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 11, Sinopse: Revelações chocantes e reviravoltas dramáticas agitam os personagens enquanto eles enfrentam o clímax da batalha.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/11.mp4
+#EXTINF:-1 tvg-name="Ataque dos Titãs" tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_d4b59522d0a64ab1f153e88aa0d15dd0.jpg" group-title="Séries",Ataque dos Titãs - Temporada 2 - Episódio 12, Sinopse: Conclusões emocionantes e consequências impactantes aguardam os personagens no desfecho da temporada.
+https://meugoogledrive.welmingtonb-neto.workers.dev/0:/S%C3%89RIES/Animes/ATAQUE%20DOS%20TIT%C3%83NS/2%C2%AA%20TEMPORADA/12.mp4
 
-# Série 2 - Breaking Bad
-#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 1, Sinopse: Walter White, um professor de química, embarca em uma jornada perigosa quando é diagnosticado com câncer e decide entrar no mundo do tráfico de drogas.
-http://caminho/do/arquivo/breaking_bad_s01e01.mp4
-#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 2, Sinopse: Jesse e Walter enfrentam desafios crescentes enquanto tentam estabelecer seu império de metanfetaminas.
-http://caminho/do/arquivo/breaking_bad_s01e02.mp4
-#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 3, Sinopse: Conflitos intensos surgem, colocando em risco a parceria de Walter e Jesse.
-http://caminho/do/arquivo/breaking_bad_s01e03.mp4
-#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 4, Sinopse: Enquanto a tensão aumenta, Walter lida com as consequências de suas escolhas.
-http://caminho/do/arquivo/breaking_bad_s01e04.mp4
 
-# Série 3 - Stranger Things
-#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 1, Sinopse: Na pequena cidade de Hawkins, um grupo de crianças se depara com forças sobrenaturais e desaparecimentos misteriosos.
-http://caminho/do/arquivo/stranger_things_s01e01.mp4
-#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 2, Sinopse: À medida que os eventos estranhos se intensificam, a amizade do grupo é testada.
-http://caminho/do/arquivo/stranger_things_s01e02.mp4
-#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 3, Sinopse: O desaparecimento de uma criança leva a descobertas sobre um mundo paralelo assustador.
-http://caminho/do/arquivo/stranger_things_s01e03.mp4
-#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 4, Sinopse: Confrontos com criaturas sinistras tornam-se mais frequentes, desafiando a coragem do grupo.
-http://caminho/do/arquivo/stranger_things_s01e04.mp4
-
-# Série 4 - Game of Thrones
-#EXTINF:-1 tvg-name="Game of Thrones" tvg-logo="http://caminho/do/icone/game_of_thrones.png" group-title="Séries",Game of Thrones - Temporada 1 - Episódio 1, Sinopse: Em Westeros, poderosas casas lutam pelo Trono de Ferro enquanto uma ameaça obscura se aproxima.
-http://caminho/do/arquivo/game_of_thrones_s01e01.mp4
-#EXTINF:-1 tvg-name="Game of Thrones" tvg-logo="http://caminho/do/icone/game_of_thrones.png" group-title="Séries",Game of Thrones - Temporada 1 - Episódio 2, Sinopse: Intrigas políticas e batalhas brutais marcam os primeiros dias da luta pelo controle dos Sete Reinos.
-http://
