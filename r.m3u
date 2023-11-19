@@ -1,7 +1,37 @@
 #EXTM3U
 
-# Smallville
+# Série 1 - Smallville
 #EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 1, Sinopse: Em Smallville, testemunhamos a jornada de Clark Kent, um jovem com habilidades extraordinárias, enquanto ele descobre seu destino como o icônico Superman.
 http://caminho/do/arquivo/smallville_s01e01.mp4
 #EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 2, Sinopse: Neste episódio, Clark enfrenta desafios sobre sua identidade sobrenatural e começa a entender o papel que ele desempenhará no mundo.
 http://caminho/do/arquivo/smallville_s01e02.mp4
+#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 3, Sinopse: Clark descobre novas facetas de seus poderes enquanto lida com amizades e inimigos em Smallville.
+http://caminho/do/arquivo/smallville_s01e03.mp4
+#EXTINF:-1 tvg-name="Smallville" tvg-logo="http://caminho/do/icone/smallville.png" group-title="Séries",Smallville - Temporada 1 - Episódio 4, Sinopse: Um novo vilão surge, desafiando Clark a aprimorar suas habilidades e proteger sua comunidade.
+http://caminho/do/arquivo/smallville_s01e04.mp4
+
+# Série 2 - Breaking Bad
+#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 1, Sinopse: Walter White, um professor de química, embarca em uma jornada perigosa quando é diagnosticado com câncer e decide entrar no mundo do tráfico de drogas.
+http://caminho/do/arquivo/breaking_bad_s01e01.mp4
+#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 2, Sinopse: Jesse e Walter enfrentam desafios crescentes enquanto tentam estabelecer seu império de metanfetaminas.
+http://caminho/do/arquivo/breaking_bad_s01e02.mp4
+#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 3, Sinopse: Conflitos intensos surgem, colocando em risco a parceria de Walter e Jesse.
+http://caminho/do/arquivo/breaking_bad_s01e03.mp4
+#EXTINF:-1 tvg-name="Breaking Bad" tvg-logo="http://caminho/do/icone/breaking_bad.png" group-title="Séries",Breaking Bad - Temporada 1 - Episódio 4, Sinopse: Enquanto a tensão aumenta, Walter lida com as consequências de suas escolhas.
+http://caminho/do/arquivo/breaking_bad_s01e04.mp4
+
+# Série 3 - Stranger Things
+#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 1, Sinopse: Na pequena cidade de Hawkins, um grupo de crianças se depara com forças sobrenaturais e desaparecimentos misteriosos.
+http://caminho/do/arquivo/stranger_things_s01e01.mp4
+#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 2, Sinopse: À medida que os eventos estranhos se intensificam, a amizade do grupo é testada.
+http://caminho/do/arquivo/stranger_things_s01e02.mp4
+#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 3, Sinopse: O desaparecimento de uma criança leva a descobertas sobre um mundo paralelo assustador.
+http://caminho/do/arquivo/stranger_things_s01e03.mp4
+#EXTINF:-1 tvg-name="Stranger Things" tvg-logo="http://caminho/do/icone/stranger_things.png" group-title="Séries",Stranger Things - Temporada 1 - Episódio 4, Sinopse: Confrontos com criaturas sinistras tornam-se mais frequentes, desafiando a coragem do grupo.
+http://caminho/do/arquivo/stranger_things_s01e04.mp4
+
+# Série 4 - Game of Thrones
+#EXTINF:-1 tvg-name="Game of Thrones" tvg-logo="http://caminho/do/icone/game_of_thrones.png" group-title="Séries",Game of Thrones - Temporada 1 - Episódio 1, Sinopse: Em Westeros, poderosas casas lutam pelo Trono de Ferro enquanto uma ameaça obscura se aproxima.
+http://caminho/do/arquivo/game_of_thrones_s01e01.mp4
+#EXTINF:-1 tvg-name="Game of Thrones" tvg-logo="http://caminho/do/icone/game_of_thrones.png" group-title="Séries",Game of Thrones - Temporada 1 - Episódio 2, Sinopse: Intrigas políticas e batalhas brutais marcam os primeiros dias da luta pelo controle dos Sete Reinos.
+http://
